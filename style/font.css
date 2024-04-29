@@ -1,0 +1,16 @@
+@font-face {
+    font-family: Bnarm;
+    
+    src: url('fonts/Bnarm.ttf') format('truetype');
+         
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: Bziba;
+    
+    src: url('fonts/BZiba.ttf') format('truetype');
+         
+    font-weight: normal;
+    font-style: normal;
+  }
